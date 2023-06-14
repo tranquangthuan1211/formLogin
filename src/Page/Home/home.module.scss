@@ -1,0 +1,73 @@
+.home {
+    background-image: url("https://cdn3.f-cdn.com/contestentries/1578585/36360275/5d613e08b4f05_thumb900.jpg");
+    height:850px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    text-align: center;
+    margin-right: 46px;
+    color: #1877f2;
+}
+.form {
+    width: 300px;
+    height: 400px;
+    
+}
+.login_face {
+    display: flex;
+    width: 260px;
+    height: 20px;
+    margin: 10px 0;
+    background-color:#ffffff;
+    box-shadow:#000000 0px 2px 4px 0px;
+    border-radius: 8px;
+    padding: 10px 0;
+    align-items: center;
+}
+.logo_face {
+    width: 50px;
+    border-radius: 50%;
+}
+.logo_gg {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.logo_github {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.logo_email {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+h5 {
+    margin: 0 ;
+    padding: 0;
+    line-height: 20px;
+    font-size: 1rem;
+    font-weight: 800;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+p {
+    margin: 0 2px 0 0;
+    padding: 0;
+}
+.account {
+    margin: 10px 0;
+    display: flex;
+}
+.link{
+    color: #1877f2;
+}
